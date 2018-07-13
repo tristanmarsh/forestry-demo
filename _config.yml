@@ -31,5 +31,3 @@ gems:
   - jekyll-menus
   - jekyll-feed
   - jekyll-archives
-
-theme: jekyll-theme-architect
